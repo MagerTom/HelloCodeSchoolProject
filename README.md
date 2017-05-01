@@ -2,6 +2,8 @@
 
 This is a sample project to test out how projects work at Code School. For this project, you'll be creating a basic website using HTML. If you want to deploy it to a real website, we'll even walkthrough how to do that!
 
+I've published my version on here: [My Hello Code School Project](https://magertom.github.io/HelloCodeSchoolProject/)
+
 # Getting Started
 
 To get started with this project, head over to the [Hello Code School](https://www.codeschool.com/projects/hello-code-school) project on Code School, and begin! It'll walk you through all of the steps below. They're included here in the readme in case you work better locally, or want to try working on this project offline.
