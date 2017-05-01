@@ -2,7 +2,9 @@
 
 This is a sample project to test out how projects work at Code School. For this project, you'll be creating a basic website using HTML. If you want to deploy it to a real website, we'll even walkthrough how to do that!
 
-I've published my version on here: [My Hello Code School Project](https://magertom.github.io/HelloCodeSchoolProject/)
+I've published my version on here:
+[My Hello Code School Project](https://magertom.github.io/HelloCodeSchoolProject/)
+[![suncitycomputers](http://www.suncitycomputers.com.au/index_files/SCC.gif "SCC")](https://magertom.github.io/HelloCodeSchoolProject/)
 
 # Getting Started
 
